@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🎱
 
-<!--
-**MurilloMaldonado712/MurilloMaldonado712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Murillo Maldonado
 
-Here are some ideas to get you started:
+- toco instrumento
+- dou aula de música
+- durmo também
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📧
+
+murillo.maldonad005@gmail.com
+
+@murillo.maldonad.3
+
+![](https://media1.tenor.com/m/_-IRw9kwh80AAAAC/serious-one-punch-man.gif)
